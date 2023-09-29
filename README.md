@@ -4,4 +4,4 @@
 - JavaScript
 
 Live Version:
-- responsive-blog-codealpha.netlify.app
+- https://responsive-blog-codealpha.netlify.app/
