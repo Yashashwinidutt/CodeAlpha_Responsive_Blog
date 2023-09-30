@@ -272,7 +272,7 @@ footer{
     height: auto;
     padding: 50px 100px;
     margin-top: 3rem;
-    background: #303030;
+    background: #a72222;
     display: flex;
     font-family: sans-serif;
     justify-content: space-between;
@@ -552,7 +552,6 @@ footer p{
         width: 100%;
     }
 }
-
 
 
 
